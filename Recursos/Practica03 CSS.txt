@@ -1,0 +1,10 @@
+0--Sin valor-- Crear el HTML necesario para hacer todos estos cambios.
+1 Crear una hoja de estilos.      -
+2 Importar a un archivo HTML la hoja de estilos creada. -
+3 Crear una clase en la hoja de estilos y usarla en la pagina HTML. -
+4 Crear un ID en la hoja de estilos y usarla en HTML.
+5 Cambiar el color de fondo del body.
+6 Cambiar el color de letra de H1.
+7 Cambiar el color del link visitado a verde.
+8 Cambiar el icono de las listas sin ordenar.
+9 Cambiar el color de fondo de las cabeceras de la tabla.

@@ -1,0 +1,14 @@
+1)Formularios
+2)text
+3)password
+4)hidden
+5)checkbox
+6)radio
+7)reset
+8)submit
+9)file
+10)button
+11)image
+12)select
+13)legend
+14)fieldset
